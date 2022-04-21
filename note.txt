@@ -17,3 +17,5 @@ Je suis Eva-Rose Krawczyk, je vais vous montrer mon parcours, mes motivations et
                 Comment j'ai découvert le developpement web? Je suis chargé de communication dans une association étudiante de géologie (AMBiGU) et grâce à elle, j'ai pu creer un site internet vitrine
                 pour la présenter à nos adhérents! Je n'ai pas codé se site internet mais j'ai pu expérimenté cette satisfaction de création. De plus, grâce à mon entourage (qui travail dans ce domaine) et grace
                 à des plateforme en ligne, j'ai pu m'initier et commencer à apprendre quelque base qui m'as permit aujourd'hui de creer ce site CV et de présenter ma candidature en tant qu'apprenti developpeuse web!
+
+test
