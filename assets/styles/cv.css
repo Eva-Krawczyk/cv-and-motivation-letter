@@ -58,6 +58,7 @@ body{
     margin: 30px auto;
     border-radius: 2px;
     box-shadow: 15px -15px 25px -15px  black;
+    min-width: 600px;
     
 }
 .bloc h1{
@@ -88,7 +89,7 @@ body{
 
 }
 
-.bas1 {
+.softskill {
     height: 20px;
     margin: 0px auto;
     width: 50%;
@@ -97,22 +98,20 @@ body{
     margin-top: 100px;
 
 }
-
-
-
 .carrebleu {
     height: 12px;
     width: 12px;
-    background-color: blue;
+    background-color: rgb(84, 147, 230);
     margin: 3px 5px;
 }
-.bloc1 {
+.blocsoftskill {
     height: 200px;
     background-color: #00273A;
     width: 50%;
     margin: 30px auto;
     border-radius: 2px;
     box-shadow: 15px -15px 25px -15px  black;
+    min-width: 600px;
 }
 .z p {
     color: white;
@@ -122,20 +121,285 @@ body{
     width: 190px;
     
 }
-.aa {
+.facilitétravailauto {
     display: flex;
     justify-content: space-around;
     margin-top: 30px;
 }
-.bb {
+.curiositécommunication {
     display: flex;
     margin-top: 30px;
     justify-content: space-around;
 }
-.e {
+.espritdequipe {
     margin: 30px auto;
 }
-.a1 {
+.premier4point {
     padding-top: 10px;
 }
 
+
+.hardskill {
+    height: 20px;
+    margin: 0px auto;
+    width: 50%;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 100px;
+
+}
+
+.bloc1 {
+    height: 150px;
+    background-color: #00273A;
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 2px;
+    box-shadow: 15px -15px 25px -15px  black;
+    min-width: 600px;
+    
+}
+.bloc1 h1{
+    color: rgb(84, 147, 230);
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    height: 75px;
+    margin-left: 3%;
+}
+.bloc1 p{
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    margin-left: 10%;
+    margin-right: 5%;
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+
+
+.Langues {
+    height: 20px;
+    margin: 0px auto;
+    width: 50%;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 100px;
+
+}
+
+.carrebleu {
+    height: 12px;
+    width: 12px;
+    background-color: rgb(84, 147, 230);
+    margin: 3px 5px;
+}
+.bloclangues {
+
+    height: 80px;
+    background-color: #00273A;
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 2px;
+    box-shadow: 15px -15px 25px -15px  black;
+    min-width: 600px;
+}
+.z p {
+    color: white;
+}
+.z {
+    display: flex;
+    width: 150px;
+    
+}
+.francais {
+    display: flex;
+    width: 200px;
+    color: white;
+}
+.Anglais {
+    display: flex;
+    width: 200px;
+    color: white;
+}
+.espagnol {
+    display: flex;
+    width: 200px;
+    color: white;
+}
+.francaisanglais {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+
+.Langages {
+    height: 20px;
+    margin: 0px auto;
+    width: 50%;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 100px;
+
+}
+.carrebleu {
+    height: 12px;
+    width: 12px;
+    background-color: rgb(84, 147, 230);
+    margin: 3px 5px;
+}
+.bloclangages {
+    height: 80px;
+    background-color: #00273A;
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 2px;
+    box-shadow: 15px -15px 25px -15px  black;
+    min-width: 600px;
+}
+.z p {
+    color: white;
+}
+.z {
+    display: flex;
+}
+.HTML {
+    display: flex;
+    width: 200px;
+    color: white;
+}
+.CSS {
+    display: flex;
+    width: 200px;
+    color: white;
+}
+.Python {
+    display: flex;
+    width: 200px;
+    color: white;
+}
+.HTMLCSS {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.premierpoint2 {
+    padding-top: 5px;
+}
+.premier2point {
+    padding-top: 5px;
+}
+
+
+
+
+.MadSkills {
+    height: 20px;
+    margin: 0px auto;
+    width: 50%;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 100px;
+
+}
+.carrebleu {
+    height: 12px;
+    width: 12px;
+    background-color: rgb(84, 147, 230);
+    margin: 3px 5px;
+}
+.blocMadSkills {
+    height: 250px;
+    background-color: #00273A;
+    width: 50%;
+    margin: 30px auto;
+    border-radius: 2px;
+    box-shadow: 15px -15px 25px -15px  black;
+    min-width: 600px;
+}
+.z p {
+    color: white;
+}
+.z {
+    display: flex;
+    width: 280px;
+    
+}
+.AssoAmbigu{
+    display: flex;
+}
+.AssoAmbigu p{
+    width: 280px;
+    color:white;
+}
+.AssoEDC{
+    display: flex;
+}
+.AssoEDC p{
+    width:200px;
+    color:white;
+}
+.haltérophiliePower {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.équitationroadtrip {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.asso {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.deuxpremierpoint {
+    padding-top: 5px;
+}
+.deuxpointssuivant {
+    padding-top: 5px;
+}
+.deuxpointssuivant2 {
+    padding-top: 5px;
+}
+.deuxpointssuivant2 a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    
+}
+.deuxpointssuivant2 a:hover {
+   color: rgb(84, 147, 230);
+}
+
+
+
+footer{
+    height: 80px;
+    width: 100%;
+    background-color: #021018;
+    margin-top: 80px;
+}
+.mailtel {
+    width: 50%;
+    height: 100%;
+    float: right;
+    display: flex;
+    justify-content: space-between;
+}
+.mail {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    color: white;
+    padding-top: 37px;
+}
+.tel {
+    width: 50%;
+    text-align: center;
+    height: 50%;
+    color: white;
+    padding-top: 37px;
+}

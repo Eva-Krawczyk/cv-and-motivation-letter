@@ -23,7 +23,6 @@ header ul {
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     line-height: 100px;
-
 }
 
 header { 
@@ -37,4 +36,11 @@ header {
     width: 100%;
     color: white;
 
+}
+#apop{
+    color:rgb(84, 147, 230)
+}
+ul li a {
+    text-decoration: none;
+    color: white;
 }

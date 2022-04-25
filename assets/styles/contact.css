@@ -4,6 +4,7 @@ html {
 * {
     margin: 0;
     padding: 0;
+    font-family: 'Raleway', sans-serif;
 }
 
 body{
@@ -12,16 +13,30 @@ body{
     width: 100%;
     
  }
-.experience {
+
+
+.haut {
     padding-top: 100px;
+    height: 301px;
+    width: 100%;
 }
+.haut p{
+    height: 100%;
+    width:100%;
+    padding-top: 120px;
+    font-size: 65px;
+    font-weight: bolder;
+    text-align: center;
+}
+
 .bloc {
-    height: 120px;
+    height: 370px;
     background-color: #00273A;
-    width: 40%;
-    margin: 30px auto;
+    width: 50%;
+    margin: 0px auto;
     border-radius: 2px;
     box-shadow: 15px -15px 25px -15px  black;
+    min-width: 620px;
     
 }
 .bloc h1{
@@ -33,11 +48,17 @@ body{
 }
 .bloc p{
     color: white;
-    font-family: 'Raleway', sans-serif;
-    margin-left: 20%;
-    margin-top: 10px;
-    font-size: 15px;
+    text-align: center;
+    font-size: 20px;
 }
-#apop {
-    color:rgb(84, 147, 230) ;
+
+.z{
+    height:80px
 }
+footer{
+    height: 80px;
+    width: 100%;
+    margin-top: 6.2%;
+    background-color: #021018;
+}
+
